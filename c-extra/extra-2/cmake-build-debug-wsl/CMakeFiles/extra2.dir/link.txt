@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/extra2.dir/main.c.o CMakeFiles/extra2.dir/cv.c.o -o extra2 
