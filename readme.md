@@ -11,7 +11,7 @@
 如果不想复制所有的而是仅仅复制单目录的时候，可以这样：
 
 ```  linux bash
-curl -L https://github.com/doctxing/Works/archive/refs/heads/master.tar.gz | tar zx --strip-components=1 Works-master/<subdirectory>
+curl -L https://github.com/doctxing/c-works/archive/refs/heads/main.tar.gz | tar zx --strip-components=1 c-works-main/<subdirectory>
 ```
 
 to be added
